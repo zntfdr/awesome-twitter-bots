@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
 	<img width="1024" src="assets/images/logo.png" alt="Awesome Twitter Bots">
-</h1>
+</p>
 
 # Awesome Twitter Bots 
 An Awesome Collection of the Best Twitter Bots, curated by [@zntfdr](https://twitter.com/@zntfdr) and you.
