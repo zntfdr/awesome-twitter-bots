@@ -2,6 +2,10 @@
 Hi! Thank you for reading this! 🤗
 
 ## Adding a bot
+Lazy way: just [send me PM on Twitter](https://twitter.com/zntfdr) (or to [@awesomeb0ts](https://twitter.com/awesomeb0ts)).
+
+Github way: please keep reading 👇🏻.
+
 The bot doesn't have to be yours, if you think one bot should be included, feel free to add it!
 
 ### Bot Eligibility 
