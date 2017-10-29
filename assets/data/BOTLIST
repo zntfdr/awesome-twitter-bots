@@ -11,6 +11,7 @@
 @greatartbot Computer-generated art, four times a day
 @emojidoll Tweet "@emojidoll me" to get your own custom emojidoll 
 @SUPERFLATbot Generates paintings inspired by Takashi Murakami's artworks
+@bot_ideas Tiny emoji worlds and stories about magical animals
 
 ### Fantasy Maps
 @forestgen Word based, unique peaceful emoji forest
@@ -35,7 +36,6 @@
 @GoogleFacts Learn new things every day
 @ArtBrowsing Pages from Smithsonian's scanned books
 @_grammar_ Detects tweets with improper grammar usage, and replies with the corrections
-@MuseumBot Random, high-resolution images from the Metropolitan Museum of Art, four times a day
 @botmoji Emoji definitions, twice a day
 @PowerVocabTweet Boost your vocabulary with these fiercely plausible words and definitions
 @dictionarish Dictionary entries, as dreamt by a neural network
@@ -87,16 +87,14 @@
 
 ## Meme 💩
 @expandingbot Blowing your mind with progressions of concepts
-@MEME_BOT The latest, most popular memes from reddit.com
+@MEME_B0T The latest, most popular memes from reddit.com
 @mixed_reactions Alternative designs of Facebook's Reaction widget
 
 ## Meta 🤳🏻
 @boy2bot It looks for tweets that use the word “boy” and replaces it with “bot" 
-@BotOfYou Reads your timeline and uses a Markov Chain to create a tweet that mimics your style
 @awesomeB0ts Tweets whenever a new bot is added to this list!
 
 ## Money 🤑
-@BTC_rise Reports the current Bitcoin price as it rises
 @BTCPriceBot 24hrs Bitcoin Price Summary
 @NotesFromBTC Public notes from Bitcoin transactions, uncensored
 @btcsupply Tells you how many new bitcoin have been generated since the last tweet
@@ -106,19 +104,22 @@
 @season_progress The progress of each season (in the Northern Hemisphere), one tweet a day
 @earthquakeBot Reports any earthquakes that measure 5.0 or more on the Richter Scale, as they happen
 @100yearsrising Sea rise predictions
+@dailyglacier Highlights the consequences of climate change on glaciers
 
 ### Space 
 @dscovr_epic Earth Pictures from NASA'S DSCOVR satellite
 @the_ephemerides Random raw images from outer planet probes, accompanied by computer-generated text
 @cassini_bot Images of Saturn and its moons from the Cassini orbiter
 @hirisebot Images from the HiRISE instrument aboard the Mars Reconnaissance Orbiter 
-@LandsatBot images from the NASA/USGS Landsat program
+@LandsatBot Images from the NASA/USGS Landsat program
+@brandnewplanet Created names and descriptions of fantasy planets
 
 ## Politics 🏛
 @congressedits Anonymous Wikipedia edits that are made from IP addresses within the U.S Congress
 @POTUSProgress The President Of The United States Term Progress
 @RealPressSecBot Checks for new @realDonaldTrump tweets every 5 min & transforms them into correct Presidential statement format
 @trumpsAlert Trump's family follow and unfollows
+@probabot_ Hunts for Bots Account that tweet about Politics
 
 ## Technology 👨🏻‍💻
 ### AI
