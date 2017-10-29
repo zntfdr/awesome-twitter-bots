@@ -37,10 +37,11 @@ There are two ways to stay updated with this project:
 
 # Bots
 ## Art 🎨
+- [Bot_Ideas](https://twitter.com/@bot_ideas) - Tiny emoji worlds and stories about magical animals
 - [dust.exe](https://twitter.com/@dust_exe) - Space dust generator 
 - [emojidoll](https://twitter.com/@emojidoll) 🔥 - Tweet "@emojidoll me" to get your own custom emojidoll 
 - [Eye Love SUPERFLAT](https://twitter.com/@SUPERFLATbot) - Generates paintings inspired by Takashi Murakami's artworks
-- [fuck every word](https://twitter.com/@fuckeveryword) 🔥🔥🔥🔥 - Fuck every word in the English language
+- [fuck every word](https://twitter.com/@fuckeveryword) 🔥🔥🔥🔥🔥 - Fuck every word in the English language
 - [Glitch Logos](https://twitter.com/@GlitchLogos) 🔥 - Real brand logos...glitched out
 - [Great Artist](https://twitter.com/@greatartbot) 🔥 - Computer-generated art, four times a day
 - [ModernArt.exe](https://twitter.com/@modernart_exe) - Randomly generated descriptions of works of modern art, extracted from MoMA's collection database
@@ -78,7 +79,6 @@ There are two ways to stay updated with this project:
 - [Google Facts](https://twitter.com/@GoogleFacts) 🔥🔥🔥🔥🔥 - Learn new things every day
 - [Grammar Police](https://twitter.com/@_grammar_) 🔥🔥🔥 - Detects tweets with improper grammar usage, and replies with the corrections
 - [Library of Every](https://twitter.com/@libraryofevery) - A speculative catalogue of exhaustive enumerations
-- [Museum Bot](https://twitter.com/@MuseumBot) 🔥🔥 - Random, high-resolution images from the Metropolitan Museum of Art, four times a day
 - [Power Vocab Tweet](https://twitter.com/@PowerVocabTweet) 🔥 - Boost your vocabulary with these fiercely plausible words and definitions
 - [Urban Dictionary](https://twitter.com/@urbandictionary) 🔥🔥🔥🔥🔥 - A definition a day, from the crowdsourced online dictionary of slang words and phrases
 
@@ -125,22 +125,21 @@ There are two ways to stay updated with this project:
 
 ## Meme 💩
 - [Expanding Brain Bot](https://twitter.com/@expandingbot) 🔥 - Blowing your mind with progressions of concepts
-- [Meme Bot](https://twitter.com/@MEME_BOT) - The latest, most popular memes from reddit.com
+- [Meme Bot](https://twitter.com/@MEME_B0T) 🔥🔥🔥 - The latest, most popular memes from reddit.com
 - [Mixed Reactions](https://twitter.com/@mixed_reactions) - Alternative designs of Facebook's Reaction widget
 
 ## Meta 🤳🏻
 - [Awesome Bots](https://twitter.com/@awesomeB0ts) - Tweets whenever a new bot is added to this list!
-- [Bot of You](https://twitter.com/@BotOfYou) - Reads your timeline and uses a Markov Chain to create a tweet that mimics your style
 - [Boy 2 Bot](https://twitter.com/@boy2bot) - It looks for tweets that use the word “boy” and replaces it with “bot" 
 
 ## Money 🤑
 - [Bitcoin Pricebot](https://twitter.com/@BTCPriceBot) - 24hrs Bitcoin Price Summary
-- [Bitcoin rise bot](https://twitter.com/@BTC_rise) - Reports the current Bitcoin price as it rises
 - [Bitcoin Supply Bot](https://twitter.com/@btcsupply) - Tells you how many new bitcoin have been generated since the last tweet
 - [Notes From Bitcoin](https://twitter.com/@NotesFromBTC) 🔥 - Public notes from Bitcoin transactions, uncensored
 - [Trump2Cash 💰](https://twitter.com/@Trump2Cash) 🔥 - A stock trading bot powered by @realDonaldTrump tweets
 
 ## Nature 🌱
+- [Daily Glacier Bot 🤖](https://twitter.com/@dailyglacier) - Highlights the consequences of climate change on glaciers
 - [Earthquake Robot](https://twitter.com/@earthquakeBot) 🔥🔥🔥 - Reports any earthquakes that measure 5.0 or more on the Richter Scale, as they happen
 - [sea change](https://twitter.com/@100yearsrising) - Sea rise predictions
 - [Season Progress 🍂](https://twitter.com/@season_progress) - The progress of each season (in the Northern Hemisphere), one tweet a day
@@ -148,12 +147,14 @@ There are two ways to stay updated with this project:
 ### Space 
 - [Cassini Bot](https://twitter.com/@cassini_bot) - Images of Saturn and its moons from the Cassini orbiter
 - [DSCOVR:EPIC](https://twitter.com/@dscovr_epic) 🔥🔥🔥 - Earth Pictures from NASA'S DSCOVR satellite
+- [Generated Planets](https://twitter.com/@brandnewplanet) 🔥 - Created names and descriptions of fantasy planets
 - [HiRISE Bot](https://twitter.com/@hirisebot) - Images from the HiRISE instrument aboard the Mars Reconnaissance Orbiter 
-- [Landsat Bot](https://twitter.com/@LandsatBot) 🔥 - images from the NASA/USGS Landsat program
+- [Landsat Bot](https://twitter.com/@LandsatBot) 🔥 - Images from the NASA/USGS Landsat program
 - [The Ephemerides](https://twitter.com/@the_ephemerides) 🔥 - Random raw images from outer planet probes, accompanied by computer-generated text
 
 ## Politics 🏛
-- [congress-edits](https://twitter.com/@congressedits) 🔥🔥🔥 - Anonymous Wikipedia edits that are made from IP addresses within the U.S Congress
+- [congress-edits](https://twitter.com/@congressedits) 🔥🔥🔥🔥 - Anonymous Wikipedia edits that are made from IP addresses within the U.S Congress
+- [probabot](https://twitter.com/@probabot_) 🔥 - Hunts for Bots Account that tweet about Politics
 - [Real Press Sec.](https://twitter.com/@RealPressSecBot) 🔥🔥🔥🔥🔥 - Checks for new @realDonaldTrump tweets every 5 min & transforms them into correct Presidential statement format
 - [Trump Alert](https://twitter.com/@trumpsAlert) 🔥🔥🔥 - Trump's family follow and unfollows
 - [🇺🇸POTUS Progress](https://twitter.com/@POTUSProgress) - The President Of The United States Term Progress
@@ -175,11 +176,11 @@ There are two ways to stay updated with this project:
 - [Every Color](https://twitter.com/@everycolorbot) 🔥🔥🔥🔥🔥 - Random colors, without repeats
 - [Every Strong Passwor](https://twitter.com/@good_passwords) - Really good passwords
 - [Hottest Startups](https://twitter.com/@hotteststartups) 🔥 - Ideas for your next startup
+- [Neon Clock Tweet Bot](https://twitter.com/@NixieBot) 🔥 - Tweet something with the #NixieBotShowMe tag and this bot will display your tweet into a neon display clock
 - [pics from website](https://twitter.com/@GIFsofWikipedia) 🔥🔥 - Animated GIFs from Wikipedia
 - [Raspberry Pi OTD](https://twitter.com/@raspberrypi_otd) - Posts of the official raspberrypi.org blog from the previous years
 - [Unicode Ebooks](https://twitter.com/@unicode_ebooks) - 140 random Unicode characters, every twenty minutes
 - [wayback_exe](https://twitter.com/@wayback_exe) 🔥🔥 - Screenshots of old websites in old browsers. Every 2 hours
-- [Your Words In Neon](https://twitter.com/@NixieBot) 🔥 - Tweet something with the #NixieBotShowMe tag and this bot will display your tweet into a neon display clock
 - [ˇÿˇ€](https://twitter.com/@FFD8FFDB) 🔥🔥 - Random still images from unsecured webcams
 
 ## Time ⏳
