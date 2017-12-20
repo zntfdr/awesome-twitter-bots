@@ -182,3 +182,9 @@ There are two ways to stay updated with this project:
 
 # Contribute
 Know an awesome twitter bot? Contributions are super welcome! Please check out the [contribution guidelines](CONTRIBUTING.md).
+
+# License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Federico Zanetello](https://twitter.com/zntfdr) has waived all copyright and related or neighboring rights to this work.
