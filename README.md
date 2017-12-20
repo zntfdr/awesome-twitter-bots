@@ -2,7 +2,7 @@
 	<img width="1024" src="assets/images/logo.png" alt="Awesome Twitter Bots">
 </p>
 
-# Awesome Twitter Bots 
+# Awesome Twitter Bots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 An Awesome Collection of the Best Twitter Bots, curated by [@zntfdr](https://twitter.com/@zntfdr) and you.
 ## Stay Updated
 There are two ways to stay updated with this project:
