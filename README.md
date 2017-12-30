@@ -38,15 +38,15 @@ There are two ways to stay updated with this project:
 # Bots
 ## Art 🎨
 - [Eye Love SUPERFLAT](https://twitter.com/@SUPERFLATbot) - Generates paintings inspired by Takashi Murakami's artworks
-- [fuck every word](https://twitter.com/@fuckeveryword) 🔥🔥🔥🔥🔥 - Fuck every word in the English language
 - [Glitch Logos](https://twitter.com/@GlitchLogos) 🔥 - Real brand logos...glitched out
 - [Great Artist](https://twitter.com/@greatartbot) 🔥 - Computer-generated art, four times a day
 - [Metropologeny](https://twitter.com/@metropologeny) 🔥 - Generates stunning city maps
 - [ModernArt.exe](https://twitter.com/@modernart_exe) - Randomly generated descriptions of works of modern art, extracted from MoMA's collection database
-- [moth generator](https://twitter.com/@mothgenerator) 🔥🔥 - It creates striking renderings of imaginary moths, along them with faux-scientific names to breathe life into them
+- [moth generator](https://twitter.com/@mothgenerator) 🔥🔥🔥 - Creates striking renderings of imaginary moths, along them with faux-scientific names to breathe life into them
 - [portmanteau_bot](https://twitter.com/@portmanteau_bot) 🔥 - Makes up new English-like words
 - [Reverse OCR](https://twitter.com/@reverseocr) 🔥 - Draws random lines until optical character recognition software thinks it looks like a certain word
 - [Spiraesthetic](https://twitter.com/@spiraesthetic) - Generates soothing geometric animations
+- [THE tinySAURS GENERATOR](https://twitter.com/@thetinySAURS) - The cutest dinosaurs that you'll see today
 - [Uncharted Atlas](https://twitter.com/@unchartedatlas) 🔥🔥🔥 - Generates incredibly beautiful fantasy maps
 - [ƒꝈȺցꝈįͲçհ](https://twitter.com/@flaglitch) - National flags from wikipedia...glitched out
 
@@ -57,6 +57,7 @@ There are two ways to stay updated with this project:
 
 ## Comedy 😂
 - [Fellas Bot](https://twitter.com/@FellasBot) 🔥 - Asking whether things are gay
+- [Hoodmaps](https://twitter.com/@hoodmapsapp) 🔥🔥🔥 - If Google Maps and Urban Dictionary had a love child
 - [Is It Christmas Yet?](https://twitter.com/@ayyitschristmas) - Is It Christmas Yet?
 - [knock knock [tab]](https://twitter.com/@autocompletejok) 🔥 - Knock-knock jokes using the autocomplete feature of Google Search
 - [lord wigglebunch esq](https://twitter.com/@wigglebunch) - Pet Name Generator
@@ -64,9 +65,9 @@ There are two ways to stay updated with this project:
 - [you have died](https://twitter.com/@you_have_died) - Random ways to die
 
 ## Culture 🦉
-- [Art Browsing Bot](https://twitter.com/@ArtBrowsing) - Pages from Smithsonian's scanned books
 - [Botmoji](https://twitter.com/@botmoji) 🔥 - Emoji definitions, twice a day
 - [Citation Needed](https://twitter.com/@needsref) - Random sentences from Wikipedia marked as [Citation Needed]
+- [Deleted Wiki Titles](https://twitter.com/@DeletedWiki) 🔥🔥🔥 - Actual article titles that have been removed from Wikipedia
 - [Dictionarish](https://twitter.com/@dictionarish) - Dictionary entries, as dreamt by a neural network
 - [Episode VIII](https://twitter.com/@episodeeight) - Imaginary Star Wars movies titles
 - [Feeling Old?](https://twitter.com/@feelingoldbot) - Tells you when "significant" events are equidistant from the present
@@ -96,6 +97,7 @@ There are two ways to stay updated with this project:
 
 ## Games 👾
 - [BoggleBot](https://twitter.com/@botgle) 🔥 - Competitive game of Boggle. Reply with words from the current bot's board: the first person to find a word gets the points
+- [DOOM Clock](https://twitter.com/@thedoomclock) - Ultimate Doom speedrun, 4 frames/day
 - [phase↝chase](https://twitter.com/@phasechase) - A linguistic game taken out of the classroom and shared on Twitter
 - [The Sorting Hat Bot](https://twitter.com/@SortingBot) 🔥🔥🔥 - Harry Potter's Sorting Hat is real and it's right here on Twitter
 - [Tiny Dungeon Bot](https://twitter.com/@TinyDungeons) - Playable dungeons, inspired by 1987's Nethack video game
@@ -104,9 +106,9 @@ There are two ways to stay updated with this project:
 
 ## Journalism 📰
 - [Conspiracy Duck](https://twitter.com/@conspiracyduck) 🔥 - [CLASSIFIED] 
-- [Editing TheGrayLady](https://twitter.com/@nyt_diff) 🔥🔥 - Highlights changes in the news of the @nytimes main page
+- [Editing TheGrayLady](https://twitter.com/@nyt_diff) 🔥🔥🔥 - Highlights changes in the news of the @nytimes main page
 - [NYT Anonymous](https://twitter.com/@NYTanon) 🔥 - New York Times articles citing anonymous sources
-- [Recite News](https://twitter.com/@reciteNews) 🔥🔥 - Tracks articles from the popular websites and tells you when one of your tweets has been cited
+- [Recite Social](https://twitter.com/@ReciteSocial) 🔥🔥 - Tracks articles from the popular websites and tells you when one of your tweets has been cited
 - [snippet_jpg](https://twitter.com/@snippet_jpg) - Snippets from newspaper front pages 100 years ago today
 - [Thinkpiece Bot 🌹](https://twitter.com/@thinkpiecebot) 🔥🔥🔥 - Fake sensational headlines for “thinkpieces” that you might find in mainstream media outlets
 - [Two Headlines](https://twitter.com/@TwoHeadlines) 🔥🔥 - Mixes headlines of two different topics and tweets the result
@@ -114,8 +116,8 @@ There are two ways to stay updated with this project:
 ## Lifestyle 😎
 - [A Travel Bot](https://twitter.com/@a_travel_bot) - Miniature random travel guides for randomly chosen locations
 - [censusAmericans](https://twitter.com/@censusAmericans) 🔥🔥🔥 - Tweeting the census, one real american at a time
-- [DTD Reminder](https://twitter.com/@thedtdReminder) 🔥 - Daily motivational 
 - [here's your reminder](https://twitter.com/@tinycarebot) 🔥🔥🔥🔥🔥 - Please let this bot give you healthy reminders
+- [trafficgifs](https://twitter.com/@trafficgifs) - Gifs of live traffic cams around the web
 - [🔕 mute](https://twitter.com/@mutelifebot) - Suggests words to mute for an happier Twitter timeline
 
 ## Meme 💩
@@ -124,10 +126,9 @@ There are two ways to stay updated with this project:
 
 ## Meta 🤳🏻
 - [Awesome Bots](https://twitter.com/@awesomeB0ts) - Tweets whenever a new bot is added to this list!
-- [Boy 2 Bot](https://twitter.com/@boy2bot) - Looks for tweets that use the word “boy” and replaces it with “bot" 
 
 ## Money 🤑
-- [Bitcoin Pricebot](https://twitter.com/@BTCPriceBot) - 24hrs Bitcoin Price Summary
+- [Bitcoin Pricebot](https://twitter.com/@BTCPriceBot) 🔥 - 24hrs Bitcoin Price Summary
 - [Bitcoin Supply Bot](https://twitter.com/@btcsupply) - Tells you how many new bitcoin have been generated since the last tweet
 - [Dealing Out Deals](https://twitter.com/@DealingOutDeals) - Tweet @DealingOutDeals an Amazon link with a target price: it will alert you as soon as the price will be lower than that
 - [Notes From Bitcoin](https://twitter.com/@NotesFromBTC) 🔥 - Public notes from Bitcoin transactions, uncensored
@@ -138,7 +139,7 @@ There are two ways to stay updated with this project:
 - [Earthquake Robot](https://twitter.com/@earthquakeBot) 🔥🔥🔥 - Reports any earthquakes that measure 5.0 or more on the Richter Scale, as they happen
 - [Pépito](https://twitter.com/@PepitoTheCat) 🔥🔥🔥🔥 - Is Pépito the cat at home?
 - [sea change](https://twitter.com/@100yearsrising) - Sea rise predictions
-- [Season Progress 🍂](https://twitter.com/@season_progress) - The progress of each season (in the Northern Hemisphere), one tweet a day
+- [Season Progress Bar ❄](https://twitter.com/@season_progress) - The progress of each season (in the Northern Hemisphere), one tweet a day
 
 ### Space 
 - [Cassini Bot](https://twitter.com/@cassini_bot) - Images of Saturn and its moons from the Cassini orbiter
@@ -153,8 +154,8 @@ There are two ways to stay updated with this project:
 - [congress-edits](https://twitter.com/@congressedits) 🔥🔥🔥🔥 - Anonymous Wikipedia edits that are made from IP addresses within the U.S Congress
 - [probabot](https://twitter.com/@probabot_) 🔥 - Hunts for Bots Account that tweet about Politics
 - [Real Press Sec.](https://twitter.com/@RealPressSecBot) 🔥🔥🔥🔥🔥 - Checks for new @realDonaldTrump tweets every 5 min & transforms them into correct Presidential statement format
-- [Trump Alert](https://twitter.com/@trumpsAlert) 🔥🔥🔥 - Trump's family follow and unfollows
-- [🇺🇸POTUS Progress](https://twitter.com/@POTUSProgress) - The President Of The United States Term Progress
+- [Trump Alert](https://twitter.com/@trumpsAlert) 🔥🔥🔥🔥 - Trump's family follow and unfollows
+- [🇺🇸POTUS Progress Bar](https://twitter.com/@POTUSProgress) - The President Of The United States Term Progress
 
 ## Technology 👨🏻‍💻
 - [olivia taters](https://twitter.com/@oliviataters) 🔥🔥 - She's a teenager created while experimenting with language manipulation of real-life teenage Twitter accounts
@@ -170,15 +171,15 @@ There are two ways to stay updated with this project:
 - [Every Color](https://twitter.com/@everycolorbot) 🔥🔥🔥🔥🔥 - Random colors, without repeats
 - [Every Strong Passwor](https://twitter.com/@good_passwords) - Really good passwords
 - [Hottest Startups](https://twitter.com/@hotteststartups) 🔥 - Ideas for your next startup
+- [Neon Clock Tweet Bot](https://twitter.com/@NixieBot) 🔥 - Tweet a word with the #NixieBotShowMe tag and this bot will display it into a neon display clock
 - [pics from website](https://twitter.com/@GIFsofWikipedia) 🔥🔥 - Animated GIFs from Wikipedia
 - [wayback_exe](https://twitter.com/@wayback_exe) 🔥🔥 - Screenshots of old websites in old browsers. Every 2 hours
-- [Your Words In Neon](https://twitter.com/@NixieBot) 🔥 - Tweet a word with the #NixieBotShowMe tag and this bot will display it into a neon display clock
-- [ˇÿˇ€](https://twitter.com/@FFD8FFDB) 🔥🔥 - Random still images from unsecured webcams
+- [ˇÿˇ€](https://twitter.com/@FFD8FFDB) 🔥 - Random still images from unsecured webcams
 
 ## Time ⏳
 - [Big Ben](https://twitter.com/@big_ben_clock) 🔥🔥🔥🔥🔥 - Missing the sound of the Big Ben? Follow this virtual version while the real Big Ben gets restored
 - [Days Until Christmas](https://twitter.com/@_daysuntilxmas) - A beautiful Christmas countdown
-- [Year Progress](https://twitter.com/@year_progress) 🔥🔥🔥 - The year progress, 1% at a time
+- [Year Progress](https://twitter.com/@year_progress) 🔥🔥🔥🔥 - The year progress, 1% at a time
 
 # Contribute
 Know an awesome twitter bot? Contributions are super welcome! Please check out the [contribution guidelines](CONTRIBUTING.md).
